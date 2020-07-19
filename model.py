@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from glob import glob
+from PIL import Image
 import os
 np.random.seed(123)
 import tensorflow

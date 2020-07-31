@@ -49,6 +49,9 @@ Adam is a popular algorithm in the field of deep learning because it achieves go
 
 The metric function "accuracy" is used is to evaluate the performance our model. This metric function is similar to the loss function, except that the results from the metric evaluation are not used when training the model (only for evaluation).
 
+#Front End
+Added a basic web-page using flask and nrok for the front-end and display of the output 
+
 
 # Conclusion
 It seems our model has maximum number of incorrect predictions for Basal cell carcinoma which has code 3, then second most missclassified type is Vascular lesions code 5 then Melanocytic nevi code 0 where as Actinic keratoses code 4 has least misclassified type.

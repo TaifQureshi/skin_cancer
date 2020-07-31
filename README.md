@@ -49,7 +49,7 @@ Adam is a popular algorithm in the field of deep learning because it achieves go
 
 The metric function "accuracy" is used is to evaluate the performance our model. This metric function is similar to the loss function, except that the results from the metric evaluation are not used when training the model (only for evaluation).
 
-#Front End
+# Front End
 Added a basic web-page using flask and nrok for the front-end and display of the output 
 
 
